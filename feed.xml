@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Bitcoin HashHouse</title>
-    <link href="https://bitcoinhashhouse.github.io/home/feed.xml" rel="self" />
-    <link href="https://bitcoinhashhouse.github.io/home" />
+    <link href="https://bitcoinhashhouse.github.io/feed.xml" rel="self" />
+    <link href="https://bitcoinhashhouse.github.io" />
     <updated>2022-06-28T20:29:53-05:00</updated>
     <author>
         <name>Bitcoin Orphan</name>
     </author>
-    <id>https://bitcoinhashhouse.github.io/home</id>
+    <id>https://bitcoinhashhouse.github.io</id>
 
     <entry>
         <title>Locations</title>
         <author>
             <name>Bitcoin Orphan</name>
         </author>
-        <link href="https://bitcoinhashhouse.github.io/home/locations.html"/>
-        <id>https://bitcoinhashhouse.github.io/home/locations.html</id>
+        <link href="https://bitcoinhashhouse.github.io/locations.html"/>
+        <id>https://bitcoinhashhouse.github.io/locations.html</id>
 
         <updated>2022-06-28T19:38:50-05:00</updated>
             <summary>
@@ -39,8 +39,8 @@
         <author>
             <name>Bitcoin Orphan</name>
         </author>
-        <link href="https://bitcoinhashhouse.github.io/home/bitcoin-hashhouse.html"/>
-        <id>https://bitcoinhashhouse.github.io/home/bitcoin-hashhouse.html</id>
+        <link href="https://bitcoinhashhouse.github.io/bitcoin-hashhouse.html"/>
+        <id>https://bitcoinhashhouse.github.io/bitcoin-hashhouse.html</id>
 
         <updated>2022-06-28T20:29:53-05:00</updated>
             <summary>
