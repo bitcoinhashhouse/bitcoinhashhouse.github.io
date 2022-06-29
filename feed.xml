@@ -3,7 +3,7 @@
     <title>Bitcoin HashHouse</title>
     <link href="https://bitcoinhashhouse.github.io/feed.xml" rel="self" />
     <link href="https://bitcoinhashhouse.github.io" />
-    <updated>2022-06-28T20:29:53-05:00</updated>
+    <updated>2022-06-28T21:11:40-05:00</updated>
     <author>
         <name>Bitcoin Orphan</name>
     </author>
@@ -42,14 +42,16 @@
         <link href="https://bitcoinhashhouse.github.io/bitcoin-hashhouse.html"/>
         <id>https://bitcoinhashhouse.github.io/bitcoin-hashhouse.html</id>
 
-        <updated>2022-06-28T20:29:53-05:00</updated>
+        <updated>2022-06-28T21:11:40-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://bitcoinhashhouse.github.io/media/posts/1/pexels-quang-nguyen-vinh-12389429.jpeg" alt="" />
                     Bitcoin Hashhouse is an informal network of bitcoiners who seek to live, work, and play in various locations around the world. Connect with bitcoiners who have housing, coworking spaces, and other real estate. Earn bitcoin by leasing your vacant condo Work along side other bitcoiners&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://bitcoinhashhouse.github.io/media/posts/1/pexels-quang-nguyen-vinh-12389429.jpeg" alt="" />
                 <p>Bitcoin Hashhouse is an informal network of bitcoiners who seek to live, work, and play in various locations around the world.</p>
 <ul>
 <li>Connect with bitcoiners who have housing, coworking spaces, and other real estate.</li>
