@@ -3,7 +3,7 @@
     <title>Bitcoin HashHouse</title>
     <link href="https://bitcoinhashhouse.github.io/feed.xml" rel="self" />
     <link href="https://bitcoinhashhouse.github.io" />
-    <updated>2022-06-29T09:17:01-05:00</updated>
+    <updated>2022-06-29T20:05:44-05:00</updated>
     <author>
         <name>Bitcoin Orphan</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://bitcoinhashhouse.github.io/locations.html"/>
         <id>https://bitcoinhashhouse.github.io/locations.html</id>
 
-        <updated>2022-06-28T19:38:50-05:00</updated>
+        <updated>2022-06-29T20:05:44-05:00</updated>
             <summary>
                 <![CDATA[
                     Bitcoin Hashhouses are located in: Interested in creating a Hashhouse in your area? Contact us to get in touch and list your property here.
@@ -29,6 +29,7 @@
 <ul>
 <li>El Salvador</li>
 <li>Mexico City, Mexico</li>
+<li>Belgium</li>
 </ul>
 <p>Interested in creating a Hashhouse in your area? Contact us to get in touch and list your property here.</p>
             ]]>
