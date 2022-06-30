@@ -15,13 +15,14 @@
             "title": "Locations",
             "summary": "Bitcoin Hashhouses are located in: Pending real estate Pending plebs Interested in creating a Hashhouse in your area? Contact us to get in touch and list your property here.",
             "content_html": "<p>Bitcoin Hashhouses are located in:</p>\n<table style=\"border-collapse: collapse; width: 122.934%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 15.1586%;\"><strong>Country</strong></td>\n<td style=\"width: 14.9236%;\"><strong>City</strong></td>\n<td style=\"width: 20.6816%;\"><strong>Owner</strong></td>\n<td style=\"width: 22.5617%;\"><strong>Status</strong></td>\n<td style=\"width: 26.792%;\"><strong>Activities</strong></td>\n</tr>\n<tr>\n<td style=\"width: 15.1586%;\">El Salvador</td>\n<td style=\"width: 14.9236%;\">El Zonte <br>(Bitcoin Beach)</td>\n<td style=\"width: 20.6816%;\"><a href=\"#INTERNAL_LINK#/author/jaydelux\">@JayDeLux</a></td>\n<td style=\"width: 22.5617%;\">Operational</td>\n<td style=\"width: 26.792%;\">\n<ul>\n<li>Hackathons</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"width: 15.1586%;\">Mexico</td>\n<td style=\"width: 14.9236%;\">Mexico City<br>(CDMX)</td>\n<td style=\"width: 20.6816%;\"><a href=\"#INTERNAL_LINK#/author/bitcoin-orphan\">@btchashhouse</a></td>\n<td style=\"width: 22.5617%;\">\n<p>Pending real estate<br>Pending plebs</p>\n</td>\n<td style=\"width: 26.792%;\">\n<ul>\n<li>Learn Spanish</li>\n<li>Learn DevOps</li>\n<li>Excellent food, musuems, culture</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"width: 15.1586%;\">Belgium</td>\n<td style=\"width: 14.9236%;\"> </td>\n<td style=\"width: 20.6816%;\"> </td>\n<td style=\"width: 22.5617%;\">Operational</td>\n<td style=\"width: 26.792%;\">\n<ul>\n<li>Hackathons</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Interested in creating a Hashhouse in your area? Contact us to get in touch and list your property here.</p>",
+            "image": "https://bitcoinhashhouse.github.io/media/posts/2/pexels-aaditya-arora-592753.jpg",
             "author": {
                 "name": "Bitcoin Orphan"
             },
             "tags": [
             ],
             "date_published": "2022-06-28T19:38:50-05:00",
-            "date_modified": "2022-06-29T20:27:44-05:00"
+            "date_modified": "2022-06-29T21:46:34-05:00"
         }
     ]
 }
