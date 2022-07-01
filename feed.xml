@@ -1,83 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Bitcoin HashHouse</title>
+    <title>jay</title>
     <link href="https://bitcoinhashhouse.github.io/feed.xml" rel="self" />
     <link href="https://bitcoinhashhouse.github.io" />
-    <updated>2022-06-29T21:46:34-05:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
-        <name>Bitcoin Orphan</name>
+        <name>jay</name>
     </author>
     <id>https://bitcoinhashhouse.github.io</id>
 
-    <entry>
-        <title>Locations</title>
-        <author>
-            <name>Bitcoin Orphan</name>
-        </author>
-        <link href="https://bitcoinhashhouse.github.io/locations.html"/>
-        <id>https://bitcoinhashhouse.github.io/locations.html</id>
-
-        <updated>2022-06-29T21:46:34-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://bitcoinhashhouse.github.io/media/posts/2/pexels-aaditya-arora-592753.jpg" alt="" />
-                    Bitcoin Hashhouses are located in: Pending real estate Pending plebs Interested in creating a Hashhouse in your area? Contact us to get in touch and list your property here.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://bitcoinhashhouse.github.io/media/posts/2/pexels-aaditya-arora-592753.jpg" alt="" />
-                <p>Bitcoin Hashhouses are located in:</p>
-<table style="border-collapse: collapse; width: 122.934%;" border="0">
-<tbody>
-<tr>
-<td style="width: 15.1586%;"><strong>Country</strong></td>
-<td style="width: 14.9236%;"><strong>City</strong></td>
-<td style="width: 20.6816%;"><strong>Owner</strong></td>
-<td style="width: 22.5617%;"><strong>Status</strong></td>
-<td style="width: 26.792%;"><strong>Activities</strong></td>
-</tr>
-<tr>
-<td style="width: 15.1586%;">El Salvador</td>
-<td style="width: 14.9236%;">El Zonte <br>(Bitcoin Beach)</td>
-<td style="width: 20.6816%;"><a href="#INTERNAL_LINK#/author/jaydelux">@JayDeLux</a></td>
-<td style="width: 22.5617%;">Operational</td>
-<td style="width: 26.792%;">
-<ul>
-<li>Hackathons</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 15.1586%;">Mexico</td>
-<td style="width: 14.9236%;">Mexico City<br>(CDMX)</td>
-<td style="width: 20.6816%;"><a href="#INTERNAL_LINK#/author/bitcoin-orphan">@btchashhouse</a></td>
-<td style="width: 22.5617%;">
-<p>Pending real estate<br>Pending plebs</p>
-</td>
-<td style="width: 26.792%;">
-<ul>
-<li>Learn Spanish</li>
-<li>Learn DevOps</li>
-<li>Excellent food, musuems, culture</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 15.1586%;">Belgium</td>
-<td style="width: 14.9236%;"> </td>
-<td style="width: 20.6816%;"> </td>
-<td style="width: 22.5617%;">Operational</td>
-<td style="width: 26.792%;">
-<ul>
-<li>Hackathons</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Interested in creating a Hashhouse in your area? Contact us to get in touch and list your property here.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
