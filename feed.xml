@@ -3,21 +3,59 @@
     <title>Bitcoin HashHouse</title>
     <link href="https://bitcoinhashhouse.github.io/feed.xml" rel="self" />
     <link href="https://bitcoinhashhouse.github.io" />
-    <updated>2022-07-02T23:48:15+02:00</updated>
+    <updated>2022-07-05T01:09:39+02:00</updated>
     <author>
         <name>Bitcoin Orphan</name>
     </author>
     <id>https://bitcoinhashhouse.github.io</id>
 
     <entry>
-        <title>Locations</title>
+        <title>About</title>
+        <author>
+            <name>Bitcoin Orphan</name>
+        </author>
+        <link href="https://bitcoinhashhouse.github.io/about.html"/>
+        <id>https://bitcoinhashhouse.github.io/about.html</id>
+
+        <updated>2022-07-05T00:49:53+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Connect to our ⚡Lighning Node⚡!</title>
+        <author>
+            <name>Bitcoin Orphan</name>
+        </author>
+        <link href="https://bitcoinhashhouse.github.io/connect-to-our-lighning-node.html"/>
+        <id>https://bitcoinhashhouse.github.io/connect-to-our-lighning-node.html</id>
+
+        <updated>2022-07-05T01:09:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                    As bitcoiners it is important for us to promote and enable hyperbitcoinisation. We are very prood to operate our central ⚡Lightning Network⚡ node in San Salvador, in a secured a datacenter on optic-filber with the best possible uptime. We typically apply zero fees policy. We&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <header class="entry-header"></header>
+<div class="entry-content">
+<p>As bitcoiners it is important for us to promote and <em><strong>enable</strong></em> hyperbitcoinisation.<br>We are very prood to operate our central ⚡Lightning Network⚡ node in San Salvador, in a secured a datacenter on optic-filber with the best possible uptime.<br>We typically apply zero fees policy. We believe in the human network effect.<br>Having you connect our node would be an honor ❤️</p>
+<p>Public key: <br><span style="color: #169179;"><code><span class=" selectable">034502648ec5f4c673830e33984e72a03185f9df6758977fc3c67fade393d400e5</span></code></span></p>
+<p> </p>
+<p> </p>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Where</title>
         <author>
             <name>Bitcoin Orphan</name>
         </author>
         <link href="https://bitcoinhashhouse.github.io/locations.html"/>
         <id>https://bitcoinhashhouse.github.io/locations.html</id>
 
-        <updated>2022-07-02T23:48:15+02:00</updated>
+        <updated>2022-07-05T00:48:46+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bitcoinhashhouse.github.io/media/posts/2/pexels-aaditya-arora-592753.jpg" alt="" />
