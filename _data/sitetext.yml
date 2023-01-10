@@ -17,23 +17,26 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Concept"
+    text: "Bitcoin HashHouse is an informal network of bitcoiners who seek to live, work, and play in various locations around the world."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Connect"
+        desc: "Connect with bitcoiners who have housing, coworking spaces, and other real estate"
+        icon: fas fa-handshake #find more at https://fontawesome.com/icons
+      - title: "Work"
+        desc: "Work along side other bitcoiners to bring about hyperbitcoinization"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Travel"
+        desc: "Temporarily swap your place for another amongst bitcoiners"
+        icon: fas fa-suitcase
+      - title: "Earn"
+        desc: "Temporarily swap your place for another amongst bitcoiners"
+        icon: fab fa-bitcoin
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "HashHouse Locations"
+    text: "Each HashHouse is different. Learn about the living environment, services offered, etc."
     section: portfolio
     closebutton: "Close Project"
 

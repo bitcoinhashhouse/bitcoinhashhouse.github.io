@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Concept"
       section: services
-    - title: "Portfolio"
+    - title: "Locations"
       section: portfolio
     - title: "About"
       section: about
