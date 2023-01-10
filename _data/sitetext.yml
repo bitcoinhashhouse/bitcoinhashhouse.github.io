@@ -47,18 +47,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    text: "on Twitter [@hashhouse](https://twitter.com/hashhouse)"
 
 en-US:
   <<: *DEFAULT_EN
