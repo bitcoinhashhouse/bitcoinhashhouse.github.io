@@ -43,10 +43,16 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: |
+      As bitcoiners it is important for us to promote and enable hyperbitcoinisation.
+      We are very proud to operate our central ⚡Lightning Network⚡ node in San Salvador, in a secured datacenter on optic-filber with the best possible uptime.
+      Of course we typically apply zero fees policy. We believe in the human network effect.
+      Having you connect our node would be an honor ❤️
+
+      Public key: 
+
+      034502648ec5f4c673830e33984e72a03185f9df6758977fc3c67fade393d400e5
     section: about
-
-
 
   contact:
     title: "Contact Us"
