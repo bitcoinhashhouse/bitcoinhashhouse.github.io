@@ -4,8 +4,8 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Bitcoin HashHouse
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+email      : bitcoinhashhouse@gmail.com #this is also the email contact forms will go to
+description: "Peer to peer system of temporary and long-term housing for bitcoiners"
 author     : Your Name
 
 locale: "en-US" # See available languages in _data/sitetext.yml
