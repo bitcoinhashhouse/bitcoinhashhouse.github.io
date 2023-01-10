@@ -56,7 +56,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "on Twitter [@hashhouse](https://twitter.com/hashhouse)"
+    text: "on Twitter [@bitcoinhashhouse](https://twitter.com/bitcoinhashhouse)"
 
 en-US:
   <<: *DEFAULT_EN
