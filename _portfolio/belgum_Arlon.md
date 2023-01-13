@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: Contact @JayDelux
 subtitle: Rent an available bedroom in Belgium.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/images/portfolio
 alt: image alt text
 
 ---

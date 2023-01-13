@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: San Salvador city condo
 subtitle: Rent an available bedroom in San Salvador. Escalon neighborhood, safe and close to many amenities.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/images/portfolio
 alt: image alt text
 
 ---
