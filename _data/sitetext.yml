@@ -30,17 +30,14 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   about:
-    title: "About Us"
-    text: "our story"
+    title: "Lightning Node"
+    text: "️Public key: 034502648ec5f4c673830e33984e72a03185f9df6758977fc3c67fade393d400e5"
     body: |
+      ![alt](/assets/images/LazerEyesGroup.png){:class="img-fluid"}
       As bitcoiners it is important for us to promote and enable hyperbitcoinisation.
       We are very proud to operate our central ⚡Lightning Network⚡ node in San Salvador, in a secured datacenter on optic-filber with the best possible uptime.
       Of course we typically apply zero fees policy. We believe in the human network effect.
-      Having you connect our node would be an honor ❤️
-
-      Public key: 
-
-      034502648ec5f4c673830e33984e72a03185f9df6758977fc3c67fade393d400e5
+      Having you connect our node would be an honor ❤
     section: about
 
   contact:
